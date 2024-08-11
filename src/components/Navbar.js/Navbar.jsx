@@ -1,8 +1,30 @@
+import "./Navbar.css"
+import CartWidget from "../Cart/CartWidget";
+
 const Navbar = () => {
     return(
-        <>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem ut harum quam veniam corporis repellat animi ratione eaque! Sint quas eaque, odio nobis ipsa perspiciatis? Molestiae voluptatem laudantium praesentium ullam!</p>
-        </>
+        <nav className="navbar">
+            <div className="navbar-logo">
+                <p>REACT</p>
+            </div>
+            <div className="navbar-links">
+                <ul>
+                    <li>
+                        <a href="#">INICIO</a>
+                    </li>
+                    <li>
+                        <a href="#">COCINA</a>
+                    </li>
+                    <li>
+                        <a href="#">LIVING</a>
+                    </li>
+                    <li>
+                        <a href="#">PATIO</a>
+                    </li>
+                </ul>
+            </div>
+            <CartWidget></CartWidget>
+        </nav>
     )
 }
 
