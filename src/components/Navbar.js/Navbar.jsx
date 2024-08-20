@@ -5,7 +5,7 @@ const Navbar = () => {
     return(
         <nav className="navbar">
             <div className="navbar-logo">
-                <p>REACT</p>
+                <p>DRIVE NOW</p>
             </div>
             <div className="navbar-links">
                 <ul>
@@ -13,13 +13,16 @@ const Navbar = () => {
                         <a href="#">INICIO</a>
                     </li>
                     <li>
-                        <a href="#">COCINA</a>
+                        <a href="#">RANGE ROVER</a>
                     </li>
                     <li>
-                        <a href="#">LIVING</a>
+                        <a href="#">FERRARI</a>
                     </li>
                     <li>
-                        <a href="#">PATIO</a>
+                        <a href="#">MERCEDES BENZ</a>
+                    </li>
+                    <li>
+                        <a href="#">BMW</a>
                     </li>
                 </ul>
             </div>

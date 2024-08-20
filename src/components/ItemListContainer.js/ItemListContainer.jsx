@@ -1,15 +1,32 @@
+import { useState ,useEffect } from "react"
+import ItemList from "../ItemList/ItemList"
 
 
-const ItemListContainer = () => {
+const ItemListContainer = ({greeting}) => {
+
+const [products,setProducts] = useState([])
+
+useEffect(() => {
+    const fetchData = async() => {
+        try{
+            const response = await fetch('/productos.json')
+            const data = await response.json()
+            setProducts(data)
+        }catch(error){
+            console.log(error)
+        }
+    }
+    fetchData()
+},[])
+
+console.log(products)
+
     return(
-        <div>
-        <h1>Lista de Productos</h1>
-        <ul>
-            <li>Producto 1</li>
-            <li>Producto 2</li>
-            <li>Producto 3</li>
-            <li>Producto 4</li>
-        </ul>
+        <div className="container">
+        <h1>{greeting}</h1>
+        
+        <ItemList product={products}></ItemList>
+
         </div>
     )
 }
