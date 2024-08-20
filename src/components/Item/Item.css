@@ -1,0 +1,32 @@
+.card{
+    border: 1px solid red;
+    border-radius: 8px;
+    padding: 16px;
+    width: 300px;
+    box-shadow: 0 4px 8px rgb(255, 0, 0);
+    transition: transform 0.2s
+    ease-in-out,
+    box-shadow 0.2s ease-in-out;
+}
+.card:hover{
+    box-shadow: 0 8px 16px rgb(255, 255, 255);
+}
+.card:active{
+    transform: translateY(-10PX);
+}
+.card img{
+    max-width: 100%;
+}
+.card h2{
+    color: white;
+    font-size: 30px;
+}
+.descrip{
+    color: rgb(255, 0, 0);
+}
+.precio{
+    color: rgb(255, 255, 255);
+}
+.stock{
+    color: rgba(103, 112, 235, 0.87);
+}

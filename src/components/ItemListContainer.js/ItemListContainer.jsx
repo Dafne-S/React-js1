@@ -1,5 +1,6 @@
 import { useState ,useEffect } from "react"
 import ItemList from "../ItemList/ItemList"
+import './ItemListContainer.css'
 
 
 const ItemListContainer = ({greeting}) => {
@@ -25,7 +26,7 @@ console.log(products)
         <div className="container">
         <h1>{greeting}</h1>
         
-        <ItemList product={products}></ItemList>
+        <ItemList products={products}></ItemList>
 
         </div>
     )
