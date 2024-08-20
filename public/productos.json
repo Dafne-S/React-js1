@@ -5,6 +5,7 @@
     "precio": 185000,
     "stock": 110,
     "imagen": "/assets/img/range-rover-velar.jpg",
+    "category": "RANGE ROVER",
     "descripcion": "Es un SUV elegante y tecnológico con un diseño moderno y minimalista. Ofrece un interior de alta calidad con materiales premium y un sistema de infoentretenimiento avanzado. Disponible con motores desde cuatro cilindros hasta V6, combina lujo con capacidades todoterreno."
 },
 {
@@ -13,6 +14,7 @@
     "precio": 70000,
     "stock": 100,
     "imagen": "/assets/img/range-rover-sport.jpg",
+    "category":"RANGE ROVER",
     "descripcion": "Es un SUV de lujo con un diseño más deportivo y dinámico. Su apariencia incluye una parrilla agresiva y una línea de techo inclinada. En el interior, combina acabados lujosos con tecnología avanzada. Ofrece opciones de motorización que van desde V6 hasta V8 para una experiencia de conducción potente y cómoda."
 },
 {
@@ -21,6 +23,7 @@
     "precio": 36000,
     "stock": 80,
     "imagen": "/assets/img/range-rover-autobiography.jpg",
+    "category":"RANGE ROVER",
     "descripcion": "Es el modelo más lujoso de la gama. Ofrece una experiencia de conducción premium con un interior altamente personalizado, acabados de alta gama y tecnología avanzada. Es ideal para quienes buscan el máximo confort y exclusividad."
 },
 {
@@ -29,6 +32,7 @@
     "precio": 800000,
     "stock": 50,
     "imagen": "/assets/img/ferrari 488 gtb.jpg",
+    "category": "FERRARI",
     "descripcion": "Es un deportivo de alta gama con un motor V8 turboalimentado que ofrece un rendimiento excepcional. Su diseño aerodinámico y agresivo se complementa con un interior enfocado en el conductor, brindando una experiencia de manejo emocionante y precisa."
 },
 {
@@ -37,6 +41,7 @@
     "precio": 750000,
     "stock": 70,
     "imagen": "/assets/img/ferrari f8 tributo.jpeg",
+    "category": "FERRARI",
     "descripcion": "Es un superdeportivo que reemplaza al 488 GTB. Equipado con un potente motor V8 turboalimentado, combina una velocidad impresionante con un diseño aerodinámico refinado. Su interior está orientado al rendimiento y ofrece tecnología avanzada para una experiencia de conducción incomparable."
 },
 {
@@ -45,6 +50,7 @@
     "precio": 890000,
     "stock": 45,
     "imagen": "/assets/img/ferrari-portofino.jpg",
+    "category": "FERRARI",
     "descripcion": "Es un convertible elegante y versátil con un motor V8 turboalimentado. Combina el lujo y el confort de un GT con el rendimiento deportivo característico de Ferrari. Su diseño estilizado y su interior sofisticado hacen de este coche una opción ideal para quienes buscan un balance entre rendimiento y estilo."
 },
 {
@@ -53,6 +59,7 @@
     "precio": 300000,
     "stock": 100,
     "imagen": "/assets/img/mercedes-s-class.jpg",
+    "category": "MERCEDES BENZ",
     "descripcion": "Es el buque insignia de la marca, conocido por su lujo y tecnología avanzada. Ofrece un interior opulento con materiales de alta calidad y una conducción extremadamente cómoda. Sus sistemas de asistencia y confort están entre los más avanzados del mercado."
 },
 {
@@ -61,6 +68,7 @@
     "precio": 220000,
     "stock": 70,
     "imagen": "/assets/img/mercedes e-class.jpg",
+    "category":"MERCEDES BENZ",
     "descripcion": "Es una berlina de lujo que ofrece una combinación de estilo elegante y tecnología innovadora. Su interior es espacioso y está bien equipado con características de confort y tecnología. Disponible en versiones sedan, coupe y cabriolet, proporciona una experiencia de conducción refinada y dinámica."
 },
 {
@@ -69,6 +77,7 @@
     "precio": 400000,
     "stock": 45,
     "imagen": "/assets/img/mercedes amg gt.jpg",
+    "category":"MERCEDES BENZ",
     "descripcion": "Es un deportivo de alto rendimiento con un motor V8 biturbo. Su diseño agresivo y su enfoque en el rendimiento ofrecen una experiencia de conducción emocionante. El interior combina lujo y tecnología, proporcionando tanto confort como una sensación de estar en una pista de carreras."
 },
 {
@@ -77,6 +86,7 @@
     "precio": 330000,
     "stock": 40,
     "imagen": "/assets/img/bmw serie 7.jpg",
+    "category": "BMW",
     "descripcion": "Es una berlina de lujo que combina elegancia con tecnología avanzada. Ofrece un interior espacioso y opulento, con opciones de motorización potentes. Es conocido por su conducción suave y características innovadoras, como el sistema de infoentretenimiento iDrive."
 },
 {
@@ -85,6 +95,7 @@
     "precio": 80000,
     "stock": 10,
     "imagen": "/assets/img/bmw serie 5.jpg",
+    "category": "BMW",
     "descripcion": "Es una berlina premium que equilibra el confort y el rendimiento. Con un diseño elegante y un interior de alta calidad, ofrece una conducción dinámica gracias a sus motores eficientes y sistemas de asistencia al conductor. Disponible en versiones sedan y touring, es ideal para quienes buscan lujo y versatilidad."
 },
 {
@@ -93,6 +104,7 @@
     "precio": 192000,
     "stock": 25,
     "imagen": "/assets/img/bmw m4.jpg",
+    "category": "BMW",
     "descripcion": "Es un deportivo de alto rendimiento basado en la Serie 4. Con un motor potente y una suspensión ajustada para la pista, ofrece una experiencia de conducción emocionante y precisa. Su diseño agresivo y su interior orientado al conductor destacan por su enfoque en el rendimiento y la tecnología."
 }
 ]

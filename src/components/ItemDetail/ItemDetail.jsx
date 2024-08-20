@@ -4,10 +4,10 @@ import ItemCount from '../ItemCount/ItemCount';
 const ItemDetail = ({product}) => {
     return(
         <div>
-            <h2>{product.name}</h2>
-            <img src={product.image} alt={product.name}/>
-            <p>{product.descrption}</p>
-            <p>USD{product.price}</p>
+            <h2>{product.nombre}</h2>
+            <img src={product.imagen} alt={product.nombre}/>
+            <p>{product.descripcion}</p>
+            <p>USD{product.precio}</p>
             <p>STOCK DISPONIBLE: {product.stock}</p>
             <p>Categoria: {product.category}</p>
 
