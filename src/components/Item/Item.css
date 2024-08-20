@@ -1,7 +1,7 @@
 .card{
     border: 1px solid red;
     border-radius: 8px;
-    padding: 16px;
+    padding: 20px;
     width: 300px;
     box-shadow: 0 4px 8px rgb(255, 0, 0);
     transition: transform 0.2s
@@ -23,6 +23,8 @@
 }
 .descrip{
     color: rgb(255, 0, 0);
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .precio{
     color: rgb(255, 255, 255);

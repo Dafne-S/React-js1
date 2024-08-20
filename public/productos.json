@@ -4,95 +4,95 @@
     "nombre": "Range Rover Velar",
     "precio": 185000,
     "stock": 110,
-    "imagen": "https://www.google.com/search?sca_esv=ad3cebe3ffb4734a&sca_upv=1&sxsrf=ADLYWILerkt8O18BRjWOxnNXWpu3CyAXBg:1724109487680&q=Range+Rover+Velar&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgWizR0-0aFOH11Sb5tlNhd7Qv31WAq-g3XdD7m281OKyew6CGJrEYYQ4lESOC_x5KsvIVlG201Lyb3dylWXbacQJ5yphGhJDT2Pf4TlOsAVJ8m00qolvy4RNCpCDJLD2ghbZQnwH4ktJ1FWxrvmGuiQMYslWTLoFWPlQrIgQaiz2ssIftuW_-vhanw0ef3xi9gTnlmw&sa=X&ved=2ahUKEwjrpcSsmIKIAxWLpZUCHfQXAxEQtKgLegQIEBAB&biw=1366&bih=607&dpr=1#vhid=0j4Gabp2fDkTGM&vssid=mosaic",
-    "descripcion": "Un SUV de lujo que combina diseño elegante con tecnología avanzada."
+    "imagen": "/assets/img/range-rover-velar.jpg",
+    "descripcion": "Es un SUV elegante y tecnológico con un diseño moderno y minimalista. Ofrece un interior de alta calidad con materiales premium y un sistema de infoentretenimiento avanzado. Disponible con motores desde cuatro cilindros hasta V6, combina lujo con capacidades todoterreno."
 },
 {
     "id": 2,
     "nombre": "Range Rover Sport",
     "precio": 70000,
     "stock": 100,
-    "imagen": "https://www.google.com/search?sca_esv=ad3cebe3ffb4734a&sca_upv=1&q=Range+Rover+Sport&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgWizR0-0aFOH11Sb5tlNhd7Qv31WAq-g3XdD7m281OKyew6CGJrEYYQ4lESOC_x5KsvIVlG201Lyb3dylWXbacQJ5yphGhJDT2Pf4TlOsAVJ8m00qolvy4RNCpCDJLD2ghbZQnwH4ktJ1FWxrvmGuiQMYslWTLoFWPlQrIgQaiz2ssIftuW_-vhanw0ef3xi9gTnlmw&sa=X&ved=2ahUKEwjvzoXzmYKIAxXSHrkGHTTSBE8QtKgLegQIDhAB&biw=1366&bih=607#vhid=P6ubt11wvT1FUM&vssid=mosaic",
-    "descripcion": "Ofrece un rendimiento deportivo junto con las comodidades de un SUV de lujo."
+    "imagen": "/assets/img/range-rover-sport.jpg",
+    "descripcion": "Es un SUV de lujo con un diseño más deportivo y dinámico. Su apariencia incluye una parrilla agresiva y una línea de techo inclinada. En el interior, combina acabados lujosos con tecnología avanzada. Ofrece opciones de motorización que van desde V6 hasta V8 para una experiencia de conducción potente y cómoda."
 },
 {
     "id": 3,
     "nombre": "Range Rover Autobiography",
     "precio": 36000,
     "stock": 80,
-    "imagen": "https://www.google.com/search?sca_esv=ad3cebe3ffb4734a&q=Range+Rover+Autobiography&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgWizR0-0aFOH11Sb5tlNhd7Qv31WAq-g3XdD7m281OKyew6CGJrEYYQ4lESOC_x5KkE_SDY1zOtKTls3hovcNa2k1YDSvJhS2fQhB5Ri9O-IoFy8f0NZG9Ke6CCLFU2wJsydnlW4XM6rAQNUwK-zEKnN80cnD1lANRf-OLMmpC5ggVBWl8u32o-UDsAkZgpX7pu2rDA&sa=X&ved=2ahUKEwjxnP32mYKIAxUuspUCHdtVGeQQtKgLegQIFxAB&biw=1366&bih=607#vhid=IfQhPRwENQwowM&vssid=mosaic",
-    "descripcion": "La versión más alta de la gama, conocida por su lujo y sofisticación."
+    "imagen": "/assets/img/range-rover-autobiography.jpg",
+    "descripcion": "Es el modelo más lujoso de la gama. Ofrece una experiencia de conducción premium con un interior altamente personalizado, acabados de alta gama y tecnología avanzada. Es ideal para quienes buscan el máximo confort y exclusividad."
 },
 {
     "id": 4,
     "nombre": "Ferrari 488 GTB",
     "precio": 800000,
     "stock": 50,
-    "imagen": "https://www.google.com/search?sca_esv=ad3cebe3ffb4734a&q=Ferrari+488+GTB&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgWizR0-0aFOH11Sb5tlNhd7Qv31WAq-g3XdD7m281OKyew6CGJrEYYQ4lESOC_x5KsvIVlG201Lyb3dylWXbacQJ5yphGhJDT2Pf4TlOsAVJ8m00qolvy4RNCpCDJLD2ghbZQnwH4ktJ1FWxrvmGuiQMYslWTLoFWPlQrIgQaiz2ssIftuW_-vhanw0ef3xi9gTnlmw&sa=X&ved=2ahUKEwinnNH-mYKIAxWTD7kGHZFXAFAQtKgLegQIIhAB&biw=1366&bih=607#vhid=djNuSM8gkr1E5M&vssid=mosaic",
-    "descripcion": "Un deportivo con motor V8, conocido por su rendimiento y diseño aerodinámico."
+    "imagen": "/assets/img/ferrari 488 gtb.jpg",
+    "descripcion": "Es un deportivo de alta gama con un motor V8 turboalimentado que ofrece un rendimiento excepcional. Su diseño aerodinámico y agresivo se complementa con un interior enfocado en el conductor, brindando una experiencia de manejo emocionante y precisa."
 },
 {
     "id": 5,
     "nombre": "Ferrari F8 Tributo",
     "precio": 750000,
     "stock": 70,
-    "imagen": "https://www.google.com/search?sca_esv=ad3cebe3ffb4734a&q=Ferrari+F8+Tributo&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgWizR0-0aFOH11Sb5tlNhd7Qv31WAq-g3XdD7m281OKyew6CGJrEYYQ4lESOC_x5KsvIVlG201Lyb3dylWXbacfPj5A3FfHczMG9d0EgLsThlsG8ygyJxdp_w2ISJmk02deuCKjE2H1-b7PIsmjxZ-MrEkf8KY9ZqmF-4Rxf4QHsN4LHDp1LtF9BHlqr3BH9uTtNMPw&sa=X&ved=2ahUKEwjtp5uCmoKIAxUkqZUCHawaCpMQtKgLegQIJhAB&biw=1366&bih=607#vhid=Oxb_7clQrB-gtM&vssid=mosaic",
-    "descripcion": "Un modelo reciente que ofrece un motor V8 turboalimentado y tecnología avanzada."
+    "imagen": "/assets/img/ferrari f8 tributo.jpeg",
+    "descripcion": "Es un superdeportivo que reemplaza al 488 GTB. Equipado con un potente motor V8 turboalimentado, combina una velocidad impresionante con un diseño aerodinámico refinado. Su interior está orientado al rendimiento y ofrece tecnología avanzada para una experiencia de conducción incomparable."
 },
 {
     "id": 6,
     "nombre": "Ferrari Portofino",
     "precio": 890000,
     "stock": 45,
-    "imagen": "https://www.google.com/search?sca_esv=ad3cebe3ffb4734a&q=Ferrari+Portofino&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgWizR0-0aFOH11Sb5tlNhd7Qv31WAq-g3XdD7m281OKyew6CGJrEYYQ4lESOC_x5KfKIM33pw4V0jbd2zwyvJC04lNi6vw677Qme4-u7PsrI5BXj86Mz2Is7nuDX6KKCrLO2nGfvz3MxKgaGgCo3SNSOkufgK_Q2l_YmUy3dsknXG-PUrG3AUxHYaKL6lLhDyJ2T8Lg&sa=X&ved=2ahUKEwiKpNyFmoKIAxWcG7kGHYZ7JT8QtKgLegQIFRAB&biw=1366&bih=607#vhid=wrd5NVPXNKHd9M&vssid=mosaic",
-    "descripcion": "Un convertible de lujo que combina elegancia y potencia."
+    "imagen": "/assets/img/ferrari-portofino.jpg",
+    "descripcion": "Es un convertible elegante y versátil con un motor V8 turboalimentado. Combina el lujo y el confort de un GT con el rendimiento deportivo característico de Ferrari. Su diseño estilizado y su interior sofisticado hacen de este coche una opción ideal para quienes buscan un balance entre rendimiento y estilo."
 },
 {
     "id": 7,
     "nombre": "Mercedes-Benz S-Class",
     "precio": 300000,
     "stock": 100,
-    "imagen": "https://www.google.com/search?sca_esv=ad3cebe3ffb4734a&sca_upv=1&q=Mercedes-Benz+S-Class&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgWizR0-0aFOH11Sb5tlNhd7Qv31WAq-g3XdD7m281OKyew6CGJrEYYQ4lESOC_x5KfKIM33pw4V0jbd2zwyvJC75ZIyiJ6nq1sNpa3bakj2VN2Nb8yzLu50f6ExKc9MZb0wDcMD68lVY4jK59bdrTPfO9yN8OcMpqGFzVfB6H-A6FU5Q3gbAjkbeoNsjft7fvozdWMg&sa=X&ved=2ahUKEwiegd7FnYKIAxVRrZUCHcpqD-wQtKgLegQIDRAB&biw=1366&bih=607&dpr=1#vhid=2osX-qhgLItImM&vssid=mosaic",
-    "descripcion": "El buque insignia de la marca, conocido por su lujo y tecnología de punta."
+    "imagen": "/assets/img/mercedes-s-class.jpg",
+    "descripcion": "Es el buque insignia de la marca, conocido por su lujo y tecnología avanzada. Ofrece un interior opulento con materiales de alta calidad y una conducción extremadamente cómoda. Sus sistemas de asistencia y confort están entre los más avanzados del mercado."
 },
 {
     "id": 8,
     "nombre": "Mercedes-Benz E-Class",
     "precio": 220000,
     "stock": 70,
-    "imagen": "https://www.google.com/search?sca_esv=ad3cebe3ffb4734a&sca_upv=1&q=Mercedes-Benz+E-Class&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgWizR0-0aFOH11Sb5tlNhdzvguW7TJ8ZJj4v-NOGupFjybypXATN8-ElM0wR8g3shdrXLLnUqMC9-OfoFvhduOs6_8FhwP4VjVyFOMSmmyU2k-Y1BiSduhOx-gVDJCBUwrrxvkyOdwnIYwi6_UmYpQRihtk1th0UesBIyPboB7IZH_XI22nlMsqxX1_qg9CMqDNV1Xw&sa=X&ved=2ahUKEwjqiqOjnYKIAxWxr5UCHUgWAJcQtKgLegQIFBAB&biw=1366&bih=607#vhid=XpO_o519ePwFsM&vssid=mosaic",
-    "descripcion": "Una opción más accesible en el segmento de lujo, con un equilibrio entre confort y rendimiento."
+    "imagen": "/assets/img/mercedes e-class.jpg",
+    "descripcion": "Es una berlina de lujo que ofrece una combinación de estilo elegante y tecnología innovadora. Su interior es espacioso y está bien equipado con características de confort y tecnología. Disponible en versiones sedan, coupe y cabriolet, proporciona una experiencia de conducción refinada y dinámica."
 },
 {
     "id": 9,
-    "nombre": "Mercedes-AMG GT",
+    "nombre": "Mercedes Benz-AMG GT",
     "precio": 400000,
     "stock": 45,
-    "imagen": "https://www.google.com/search?sca_esv=ad3cebe3ffb4734a&q=Mercedes-AMG+GT&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgWizR0-0aFOH11Sb5tlNhd7Qv31WAq-g3XdD7m281OKx4FuWYFc0W61H2Ji0GYRTGoy_FQVX--jsZjMdyRx4Jqik1Mzn1-NbYkA-mktRR_k3VMyVWKUBQwEYGpN6Hp4z8OzUxgI_MpiRND7tREXUqqjhDSScBm9G_wCCactcrOg8xPVSu965j8RvMAPfE3B2lc0K_fA&sa=X&ved=2ahUKEwiunKymnYKIAxWxr5UCHUJGPKIQtKgLegQIDRAB&biw=1366&bih=607#vhid=zsIYEUPIimgecM&vssid=mosaic",
-    "descripcion": "Un deportivo de alto rendimiento con un diseño llamativo y motor potente."
+    "imagen": "/assets/img/mercedes amg gt.jpg",
+    "descripcion": "Es un deportivo de alto rendimiento con un motor V8 biturbo. Su diseño agresivo y su enfoque en el rendimiento ofrecen una experiencia de conducción emocionante. El interior combina lujo y tecnología, proporcionando tanto confort como una sensación de estar en una pista de carreras."
 },
 {
     "id": 10,
     "nombre": "BMW Serie 7",
     "precio": 330000,
     "stock": 40,
-    "imagen": "https://www.google.com/search?sca_esv=ad3cebe3ffb4734a&q=BMW+Serie+7&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgWizR0-0aFOH11Sb5tlNhd7Qv31WAq-g3XdD7m281OKyew6CGJrEYYQ4lESOC_x5KkE_SDY1zOtKTls3hovcNa2k1YDSvJhS2fQhB5Ri9O-IoFy8f0NZG9Ke6CCLFU2wJsydnlW4XM6rAQNUwK-zEKnN80cnD1lANRf-OLMmpC5ggVBWl8u32o-UDsAkZgpX7pu2rDA&sa=X&ved=2ahUKEwiopbepnYKIAxV-qpUCHcSSEfwQtKgLegQIBxAB&biw=1366&bih=607#vhid=pOFt-yexgUFu6M&vssid=mosaic",
-    "descripcion": "El modelo de lujo de la marca, ofreciendo tecnología avanzada y comodidad superior."
+    "imagen": "/assets/img/bmw serie 7.jpg",
+    "descripcion": "Es una berlina de lujo que combina elegancia con tecnología avanzada. Ofrece un interior espacioso y opulento, con opciones de motorización potentes. Es conocido por su conducción suave y características innovadoras, como el sistema de infoentretenimiento iDrive."
 },
 {
     "id": 11,
     "nombre": "BMW Serie 5",
     "precio": 80000,
     "stock": 10,
-    "imagen": "https://www.google.com/search?sca_esv=665b6f0d97c06b5e&sca_upv=1&sxsrf=ADLYWIJ6ztPvq1BO2hdwvCCViVZaEaoSEg:1724156969394&q=bmw+serie+5&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgWizR0-0aFOH11Sb5tlNhd7Qv31WAq-g3XdD7m281OKx4FuWYFc0W61H2Ji0GYRTGoy_FQVX--jsZjMdyRx4Jqik1Mzn1-NbYkA-mktRR_k3VMyVWKUBQwEYGpN6Hp4z8OzUxgI_MpiRND7tREXUqqjhDSScBm9G_wCCactcrOg8xPVSu965j8RvMAPfE3B2lc0K_fA&sa=X&ved=2ahUKEwiXncqdyYOIAxUwqpUCHWTDMR8QtKgLegQICRAB&biw=1366&bih=607&dpr=1#vhid=x9tPj9yITqcbeM&vssid=mosaic",
-    "descripcion": " Un sedán ejecutivo que combina elegancia, tecnología y rendimiento."
+    "imagen": "/assets/img/bmw serie 5.jpg",
+    "descripcion": "Es una berlina premium que equilibra el confort y el rendimiento. Con un diseño elegante y un interior de alta calidad, ofrece una conducción dinámica gracias a sus motores eficientes y sistemas de asistencia al conductor. Disponible en versiones sedan y touring, es ideal para quienes buscan lujo y versatilidad."
 },
 {
     "id": 12,
     "nombre": "BMW M4",
     "precio": 192000,
     "stock": 25,
-    "imagen": "https://www.google.com/search?sca_esv=665b6f0d97c06b5e&sca_upv=1&sxsrf=ADLYWILZdiI5AejqlF0AhD65KDFWDFzjyg:1724157100658&q=BMW+M4&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgWizR0-0aFOH11Sb5tlNhd7Qv31WAq-g3XdD7m281OKyew6CGJrEYYQ4lESOC_x5KkE_SDY1zOtKTls3hovcNa2k1YDSvJhS2fQhB5Ri9O-IoFy8f0NZG9Ke6CCLFU2wJsydnlW4XM6rAQNUwK-zEKnN80cnD1lANRf-OLMmpC5ggVBWl8u32o-UDsAkZgpX7pu2rDA&sa=X&ved=2ahUKEwjp95XcyYOIAxXtB7kGHfu-EnoQtKgLegQIEhAB&biw=1366&bih=607&dpr=1#vhid=cjgZwpGXb6CUzM&vssid=mosaic",
-    "descripcion": "Un deportivo de alto rendimiento con un diseño agresivo y motor potente"
+    "imagen": "/assets/img/bmw m4.jpg",
+    "descripcion": "Es un deportivo de alto rendimiento basado en la Serie 4. Con un motor potente y una suspensión ajustada para la pista, ofrece una experiencia de conducción emocionante y precisa. Su diseño agresivo y su interior orientado al conductor destacan por su enfoque en el rendimiento y la tecnología."
 }
 ]

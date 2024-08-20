@@ -2,7 +2,7 @@
 import "./App.css"
 import Navbar  from "./components/Navbar.js/Navbar"
 import ItemListContainer from "./components/ItemListContainer.js/ItemListContainer"
-import CartWidget from "./components/Cart/CartWidget"
+import Footer from "./components/Footer/Footer"
 
 function App() {
 
@@ -11,7 +11,7 @@ function App() {
     <>
     <Navbar></Navbar>
     <ItemListContainer greeting="Bienvenidos"/>
-      <CartWidget></CartWidget>
+    <Footer></Footer>
     </>
   )
 }
