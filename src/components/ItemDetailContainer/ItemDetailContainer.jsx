@@ -11,8 +11,7 @@ const ItemDetailContainer = () => {
                 const data = await response.json()
                 const newProduct = data.find(p => p.id === 1)
                 setProduct(newProduct)
-            }catch(error)
-            {
+            }catch(error){
                 console.log(error)
             }
         }

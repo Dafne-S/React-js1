@@ -1,10 +1,12 @@
 import { useState ,useEffect } from "react"
 import ItemList from "../ItemList/ItemList"
 import './ItemListContainer.css'
+import { useParams } from "react-router-dom"
 
 const ItemListContainer = ({greeting}) => {
 
 const [products,setProducts] = useState([])
+const {categoryId} = useParams();
 
 useEffect(() => {
     const fetchData = async() => {
@@ -19,6 +21,8 @@ useEffect(() => {
     fetchData()
 },[])
 
+console.log(categoryId)
+
 console.log(products)
 
     return(
@@ -30,5 +34,6 @@ console.log(products)
         </div>
     )
 }
+
 
 export default ItemListContainer;
